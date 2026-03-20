@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What does CPU stand for?",
+    "answer": "Central Processing Unit",
+    "correct": 0,
+    "attempts": 1
+  },
+  {
+    "question": "What is a variable in programming?",
+    "answer": "A named container that stores a value",
+    "correct": 0,
+    "attempts": 1
+  },
+  {
+    "question": "What does HTML stand for?",
+    "answer": "HyperText Markup Language",
+    "correct": 0,
+    "attempts": 1
+  },
+  {
+    "question": "What is a loop in programming?",
+    "answer": "A block of code that repeats until a condition is met",
+    "correct": 0,
+    "attempts": 1
+  },
+  {
+    "question": "What is a function?",
+    "answer": "A reusable block of code that performs a specific task",
+    "correct": 0,
+    "attempts": 1
+  }
+]
